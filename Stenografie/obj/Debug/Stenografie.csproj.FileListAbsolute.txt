@@ -1,0 +1,6 @@
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Stenografie\bin\Debug\Stenografie.exe.config
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Stenografie\bin\Debug\Stenografie.exe
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Stenografie\bin\Debug\Stenografie.pdb
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Stenografie\obj\Debug\Stenografie.csprojResolveAssemblyReference.cache
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Stenografie\obj\Debug\Stenografie.exe
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Stenografie\obj\Debug\Stenografie.pdb

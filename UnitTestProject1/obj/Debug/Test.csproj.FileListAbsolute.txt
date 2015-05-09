@@ -1,0 +1,9 @@
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Stenografie.exe
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Translate.dll
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Stenografie.pdb
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Translate.pdb
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

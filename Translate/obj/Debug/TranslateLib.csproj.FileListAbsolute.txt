@@ -1,0 +1,4 @@
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Translate\bin\Debug\Translate.dll
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Translate\bin\Debug\Translate.pdb
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Translate\obj\Debug\Translate.dll
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Translate\obj\Debug\Translate.pdb

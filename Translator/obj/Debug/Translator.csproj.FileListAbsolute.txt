@@ -1,0 +1,5 @@
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Translator\bin\Debug\Translator.exe.config
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Translator\bin\Debug\Translator.exe
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Translator\bin\Debug\Translator.pdb
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Translator\obj\Debug\Translator.exe
+c:\users\jirka\documents\visual studio 2013\Projects\UnitTestProject1\Translator\obj\Debug\Translator.pdb
